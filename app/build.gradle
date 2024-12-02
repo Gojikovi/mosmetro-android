@@ -100,7 +100,7 @@ dependencies {
     implementation 'dnsjava:dnsjava:3.6.2'
     implementation 'com.jayway.jsonpath:json-path:2.9.0'
     implementation 'com.github.topjohnwu.libsu:core:6.0.0'
-    implementation 'io.sentry:sentry-android-core:7.15.0'
+    implementation 'io.sentry:sentry-android-core:7.18.1'
 
     // https://developer.android.com/studio/write/java8-support#library-desugaring-versions
     coreLibraryDesugaring 'com.android.tools:desugar_jdk_libs:2.1.3'
